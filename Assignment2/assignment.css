@@ -1,0 +1,38 @@
+
+body
+{
+    background-color:cornflowerblue;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1
+{
+    text-align: center;
+    border: 2mm white double;
+    
+}
+
+dt {
+    font-style: italic;
+
+  background: cornsilk;
+  color: darkorchid;
+  border: 2mm rgb(128, 128, 201) solid;
+  position: -webkit-sticky;
+  position: sticky;
+  top:-1px;
+  text-align: center;
+}
+
+dd{
+    border :1mm aliceblue solid;
+    margin: 2mm;
+    border-bottom: 1mm;
+}
+
+dd:hover{
+    background-color: aqua;
+}
+
+
+
