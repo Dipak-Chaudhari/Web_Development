@@ -8,6 +8,6 @@
 
 
 
-[Assignment 2 : Phone Book](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/Assignment2/Assignment2.html)
+[Assignment 2 : Phone Book](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/Assignment2/Assignment.html)
 
 
