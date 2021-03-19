@@ -13,6 +13,6 @@
 
 [Assignment 3 : Tranistion Effect Css](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/Assignment3/index.html)
 
-[Assignment 4 : Home Page For Web Application](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/blob/main/Assignment4/one.html)
+[Assignment 4 : Home Page For Web Application](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/Assignment4/one.html)
 
 
