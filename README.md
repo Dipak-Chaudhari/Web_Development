@@ -21,3 +21,6 @@
 [Assignment 4 : Home Page For Web Application](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/Assignment4/one.html)
 
 
+[Assignment 6 : To Do List](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/Assignment 6/index.html)
+
+
