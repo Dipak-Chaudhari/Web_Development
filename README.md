@@ -26,4 +26,4 @@
 
 
 
-[Assignment 7 : Wheather Forecasting](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/Assignment_6/index.html)
+[Assignment 7 : Wheather Forecasting](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/Assignment_7/index.html)
