@@ -22,6 +22,6 @@
 
 
 
-[Assignment 6 : To Do List](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/Assignment6/index.html)
+[Assignment 6 : To Do List](https://dipak-chaudhari.github.io/Web_Development_Coding-_Blocks/Assignment 6/index.html)
 
 
