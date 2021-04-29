@@ -45,4 +45,4 @@ city.addEventListener("keypress", function ( e ) {
         // Clear the search box
         city.value = "";
     }
-})
+}
